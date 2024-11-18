@@ -1,4 +1,4 @@
-function openTab(evt, tabName) {
+function openTab(evt, tabName, link) {
     var i, tabcontent, tablinks;
 
     // Hide all tab content
@@ -16,6 +16,9 @@ function openTab(evt, tabName) {
     // Show the current tab and add an active class to the button that opened the tab
     document.getElementById(tabName).style.display = "block";
     evt.currentTarget.className += " active";
+
+    // Forward to the specified link
+    window.location.href = link;
 }
 
 // Open the first tab by default
