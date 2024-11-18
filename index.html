@@ -35,7 +35,7 @@
 
     <div class="animal giraffe">
         <h2>Giraffes</h2>
-        <img src="./Giraffe-closeup-head.jpg" alt="Giraffe">
+        <img src="./giraffe.gng" alt="Giraffe">
         <p>The giraffe is the tallest living terrestrial animal and the largest ruminant. It is traditionally considered to be one species, Giraffa camelopardalis, with nine subspecies.</p>
         <h3>Favorite Meals</h3>
         <ul>
@@ -75,7 +75,7 @@
 
     <div class="animal">
         <h2>Tapirs</h2>
-        <img src="./Tapirus_indicus_1a.jpg" alt="Tapir">
+        <img src="./Tapirus_indicus_1a.png" alt="Tapir">
         <p>Tapirs are large, herbivorous mammals, similar in shape to a pig, with a short, prehensile nose trunk. They inhabit jungle and forest regions of South America, Central America, and Southeast Asia.</p>
         <h3>Favorite Meals</h3>
         <ul>
