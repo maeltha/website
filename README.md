@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my [personal website](https://maeltha.github.io)!
+Welcome to my [personal website](https://maeltha.github.io/website/)!
 
 Special Thanks to all Okpapis
 ![Okapi](./vcvcz9npev11b45sl814f8eaypdb.png "This is a Okapi")
