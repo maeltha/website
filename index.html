@@ -24,14 +24,18 @@
             list-style-type: disc;
             margin-left: 20px;
         }
+        .giraffe img {
+            max-width: 50%; /* Adjust this value to make the image smaller */
+            height: auto;
+        }
     </style>
 </head>
 <body>
     <h1>Giraffes, Okapis, and Tapirs</h1>
 
-    <div class="animal">
+    <div class="animal giraffe">
         <h2>Giraffes</h2>
-        <img src="./Giraffe-closeup-head.jpg.crdownload" alt="Giraffe">
+        <img src="./Giraffe-closeup-head.jpg" alt="Giraffe">
         <p>The giraffe is the tallest living terrestrial animal and the largest ruminant. It is traditionally considered to be one species, Giraffa camelopardalis, with nine subspecies.</p>
         <h3>Favorite Meals</h3>
         <ul>
@@ -51,7 +55,7 @@
 
     <div class="animal">
         <h2>Okapis</h2>
-        <img src="vcvcz9npev11b45sl814f8eaypdb.png" alt="Okapi">
+        <img src="./vcvcz9npev11b45sl814f8eaypdb.png" alt="Okapi">
         <p>The okapi, also known as the forest giraffe, Congolese giraffe, or zebra giraffe, is an artiodactyl mammal native to the northeast of the Democratic Republic of the Congo in Central Africa.</p>
         <h3>Favorite Meals</h3>
         <ul>
@@ -71,7 +75,7 @@
 
     <div class="animal">
         <h2>Tapirs</h2>
-        <img src="Tapirus_indicus_1a.jpg" alt="Tapir">
+        <img src="./Tapirus_indicus_1a.jpg" alt="Tapir">
         <p>Tapirs are large, herbivorous mammals, similar in shape to a pig, with a short, prehensile nose trunk. They inhabit jungle and forest regions of South America, Central America, and Southeast Asia.</p>
         <h3>Favorite Meals</h3>
         <ul>
@@ -87,6 +91,3 @@
             <li>"Born to Be Wild" by Steppenwolf</li>
             <li>"Take Me Home, Country Roads" by John Denver</li>
         </ul>
-    </div>
-</body>
-</html>
