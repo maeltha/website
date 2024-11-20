@@ -28,7 +28,8 @@ const About = () => {
             <h2>
               <Link to="/about">About</Link>
             </h2>
-            <p>(in about {count} words)</p>
+            <p>it has a ball ..</p>
+            <p>(more in about {count} words)</p>
           </div>
         </header>
         <Markdown>{markdown}</Markdown>

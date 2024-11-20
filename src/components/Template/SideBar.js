@@ -22,9 +22,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        if you want to purchaese a poster of an {' '}
+        if you want to purchaese a poster <br />of an {' '}
         <a href="https://de.wikipedia.org/wiki/Okapi"> Okapi</a> check not
-        here<a href="https://de.wikipedia.org/wiki/Schabrackentapir"> Schabrackentapirs</a>.
+        here <br /> <a href="https://de.wikipedia.org/wiki/Schabrackentapir">Schabrackentapir</a>.
       </p>
       <ul className="actions">
         <li>

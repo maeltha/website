@@ -10,7 +10,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'mailto:okapi@gmail.com',
+    link: 'mailto:okapi@maeltha.com',
     label: 'Email',
     icon: faEnvelope,
   },

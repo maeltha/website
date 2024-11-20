@@ -19,8 +19,12 @@ const Contact = () => (
       </header>
       <div className="email-at">
         <p>Feel free to get in touch via PR</p>
+        <p>(infrasound will only work for top-notchers)</p>
       </div>
       <ContactIcons />
+      <div className="image-container">
+        <img src={`${process.env.PUBLIC_URL}/images/infra.png`} alt="Infra" />
+      </div>
     </article>
   </Main>
 );

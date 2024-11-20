@@ -26,12 +26,11 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        Welcome <br />
-        and do not hesitate {' '}  <br /> to improve <br />
-        <Link to="/about"> about </Link> <br />   {' '}
-        <Link to="/schaberbracken">schaberbracken</Link><br />
-        <Link to="/okapi">okapi</Link>{' '} <br />
-        <Link to="/stats">site statistics</Link>
+        Welcome and do not hesitate {' '} to help improve <br />
+        <Link to="/about"> - about </Link> <br />   {' '}
+        <Link to="/schaberbracken"> - schaberbracken</Link><br />
+        <Link to="/okapi"> - okapi</Link>{' '} <br />
+        <Link to="/stats"> - site statistics</Link>
       </p>
       <p>
         {' '}
