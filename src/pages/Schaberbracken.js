@@ -3,13 +3,13 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-import Education from '../components/Schaberbracken/Education';
+import Placesvisited from '../components/Schaberbracken/Placesvisited';
 
 import degrees from '../data/schaberbracken/degrees';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
-  Education: () => <Education data={degrees} />,
+  Placesvisited: () => <Placesvisited data={degrees} />,
 };
 
 const Schaberbracken = () => (
