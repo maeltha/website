@@ -19,23 +19,23 @@ const Index = () => (
           <p>
             In the heart of the forest, where shadows play, <br />
             Lives the elusive okapi, hidden away. <br />
-            With stripes like a zebra and ears so divine, <br />
-            It roams through the trees, where the sun always shines.
+            It has great stripes, something on the ball <br />
+            it changed the F-Scale of Kirkpatrick for Big Wall
           </p>
         </div>
       </header>
       <p>
         {' '}
-        Welcome to this website. <br />
-        Please feel free to contribute {' '}  <br /> Check
-        <Link to="/about">about me</Link>, <br /> or about my{' '}
-        <Link to="/schaberbracken">schaberbracken</Link>, <Link to="/okapi">okapi</Link>,{' '}
-        view <Link to="/stats">site statistics</Link>, or{' '}
-        <Link to="/contact">contact</Link> me.
+        Welcome <br />
+        and do not hesitate {' '}  <br /> to improve <br />
+        <Link to="/about"> about </Link> <br />   {' '}
+        <Link to="/schaberbracken">schaberbracken</Link><br />
+        <Link to="/okapi">okapi</Link>{' '} <br />
+        <Link to="/stats">site statistics</Link>
       </p>
       <p>
         {' '}
-        Source available{' '}
+        Source code available{' '}
         <a href="https://github.com/maeltha/website">here</a>.
       </p>
     </article>

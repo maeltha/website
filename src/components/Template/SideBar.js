@@ -22,10 +22,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I like {' '}
-        <a href="https://de.wikipedia.org/wiki/Okapi">Okapis</a> but
-        not to same extend
-        Tapirs esp. <a href="https://de.wikipedia.org/wiki/Schabrackentapir">Schabrackentapirs</a>.
+        if you want to purchaese a poster of an {' '}
+        <a href="https://de.wikipedia.org/wiki/Okapi"> Okapi</a> check not
+        here<a href="https://de.wikipedia.org/wiki/Schabrackentapir"> Schabrackentapirs</a>.
       </p>
       <ul className="actions">
         <li>
