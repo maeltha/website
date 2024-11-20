@@ -11,6 +11,12 @@ const degrees = [
     link: 'https://www.openstreetmap.org/search?query=kopfkraxen#map=16/47.56199/12.28593',
     year: 2024,
   },
+  {
+    school: '2195m',
+    degree: 'Kuffert',
+    link: 'https://www.openstreetmap.org/node/12090564101#map=16/47.54686/11.78626',
+    date: '2024',
+  },
 ];
 
 export default degrees;
