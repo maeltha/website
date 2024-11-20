@@ -19,7 +19,7 @@ const Index = () => (
           <p>
           In the heart of the forest, where shadows play,
           Lives the elusive okapi, hidden away.
-          With stripes like a zebra and grace so divine,
+          With stripes like a zebra and ears so divine,
           It roams through the trees, where the sun always shines.
           </p>
         </div>
