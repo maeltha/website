@@ -15,7 +15,7 @@ const degrees = [
     school: '2195m',
     degree: 'Kuffert',
     link: 'https://www.openstreetmap.org/node/12090564101#map=16/47.54686/11.78626',
-    date: '2024',
+    year: '2024',
   },
 ];
 
