@@ -17,10 +17,10 @@ const Index = () => (
             <Link to="/">About Okapi</Link>
           </h2>
           <p>
-          In the heart of the forest, where shadows play,
-          Lives the elusive okapi, hidden away.
-          With stripes like a zebra and ears so divine,
-          It roams through the trees, where the sun always shines.
+            In the heart of the forest, where shadows play,
+            Lives the elusive okapi, hidden away.
+            With stripes like a zebra and ears so divine,
+            It roams through the trees, where the sun always shines.
           </p>
         </div>
       </header>
