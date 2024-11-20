@@ -17,8 +17,10 @@ const Index = () => (
             <Link to="/">About Okapi</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+          In the heart of the forest, where shadows play,
+          Lives the elusive okapi, hidden away.
+          With stripes like a zebra and grace so divine,
+          It roams through the trees, where the sun always shines.
           </p>
         </div>
       </header>
